@@ -42,9 +42,6 @@
 
 ![8](https://github.com/prabhjotschugh/Genius-AI-SaaS/assets/64200536/c3f52408-819b-4e44-a100-a32b64ca4267)
 
-## Live Demo
-https://github.com/prabhjotschugh/Genius-AI-SaaS/assets/64200536/09876671-ada1-4647-9275-6c502bbc05b5
-
 
 To run the app - 
 ## Install packages
